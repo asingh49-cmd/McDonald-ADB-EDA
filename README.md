@@ -1,11 +1,11 @@
-# 📊 Data Analytics Portfolio
+# Data Analytics Portfolio
 
 Welcome to my **Data Analytics Portfolio**, a collection of projects demonstrating my skills in data exploration, visualization, and predictive modeling.  
 These projects focus on deriving actionable business insights and building data-driven solutions for real-world scenarios.
 
 ---
 
-## 🥞 McDonald’s All-Day Breakfast Promotion Analysis
+## McDonald’s All-Day Breakfast Promotion Analysis
 
 **Objective:**  
 Evaluate the performance of McDonald’s **All-Day Breakfast** promotion in the **Michigan region** to determine whether it should be **continued, modified, or discontinued**.
@@ -20,11 +20,11 @@ Evaluate the performance of McDonald’s **All-Day Breakfast** promotion in the 
 `Tableau`, `Excel`, `Data Visualization`, `KPI Analysis`, `Comparative Analysis`
 
 **Deliverable:**  
-📊 [Tableau Dashboard](https://public.tableau.com/views/McDonaldsEDA_17618536558560/SalesMixAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[Tableau Dashboard](https://public.tableau.com/views/McDonaldsEDA_17618536558560/SalesMixAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 | Category | Tools / Technologies |
 |-----------|----------------------|
@@ -37,7 +37,7 @@ Evaluate the performance of McDonald’s **All-Day Breakfast** promotion in the 
 
 ---
 
-## 📈 Skills Demonstrated
+## Skills Demonstrated
 - Data Cleaning & Feature Engineering  
 - Exploratory Data Analysis (EDA)  
 - Data Visualization (Tableau & Python)  
