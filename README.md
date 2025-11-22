@@ -21,7 +21,7 @@ Evaluate the performance of McDonald’s **All-Day Breakfast** promotion in the 
 
 | Category | Tools / Technologies |
 |-----------|----------------------|
-| Visualization | Tableau, matplotlib, plotly |
+| Visualization | Tableau |
 | Data Management | Excel, Git/GitHub |
 
 ---
