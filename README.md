@@ -21,18 +21,13 @@ Evaluate the performance of McDonald’s **All-Day Breakfast** promotion in the 
 
 | Category | Tools / Technologies |
 |-----------|----------------------|
-| Languages | Python, SQL |
-| Analysis | pandas, numpy |
 | Visualization | Tableau, matplotlib, plotly |
-| Machine Learning | scikit-learn, XGBoost |
-| Environment | Jupyter Notebook, Visual Studio, Google Cloud Shell |
 | Data Management | Excel, Git/GitHub |
 
 ---
 
 ## Skills Demonstrated
-- Data Cleaning & Feature Engineering  
+- Data Cleaning  
 - Exploratory Data Analysis (EDA)  
-- Data Visualization (Tableau & Python)  
-- Model Evaluation & Interpretation (SHAP, ROC-AUC)  
+- Data Visualization (Tableau)  
 - Business Insight Generation & Decision Support  
