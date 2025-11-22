@@ -1,10 +1,3 @@
-# Data Analytics Portfolio
-
-Welcome to my **Data Analytics Portfolio**, a collection of projects demonstrating my skills in data exploration, visualization, and predictive modeling.  
-These projects focus on deriving actionable business insights and building data-driven solutions for real-world scenarios.
-
----
-
 ## McDonald’s All-Day Breakfast Promotion Analysis
 
 **Objective:**  
